@@ -1,7 +1,7 @@
 ## ⏱ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue?style=flat)
 
@@ -44,15 +44,15 @@ Sunday                   14 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   53 mins             █████████████████████████   99.80 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   1 hr 30 mins        █████████████████████████   99.88 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  38 mins             ██████████████████░░░░░░░   71.15 % 
-Cursor                   15 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+VS Code                  1 hr 14 mins        █████████████████████░░░░   82.89 % 
+Cursor                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +72,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jane1019-Libra/Jane1019-Libra/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2026 02:37:47 UTC
+ Last Updated on 28/02/2026 02:27:05 UTC
 <!--END_SECTION:waka-->
