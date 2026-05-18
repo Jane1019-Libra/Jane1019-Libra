@@ -1,8 +1,6 @@
 ## ⏱ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2023%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -17,42 +15,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                208 commits         ███████████████░░░░░░░░░░   60.29 % 
-🌆 Daytime                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-🌃 Evening                74 commits          █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Wednesday                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Thursday                 16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Saturday                 194 commits         ██████████████░░░░░░░░░░░   56.23 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -70,5 +32,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jane1019-Libra/Jane1019-Libra/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 04:01:04 UTC
+ Last Updated on 18/05/2026 04:14:04 UTC
 <!--END_SECTION:waka-->
