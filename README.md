@@ -1,6 +1,8 @@
 ## ⏱ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2038%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -68,5 +70,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jane1019-Libra/Jane1019-Libra/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 04:12:43 UTC
+ Last Updated on 23/05/2026 03:51:44 UTC
 <!--END_SECTION:waka-->
