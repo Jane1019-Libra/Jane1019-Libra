@@ -11,11 +11,11 @@
 
 > 📦 495.7 kB Used in GitHub's Storage 
  > 
-> 🏆 78 Contributions in the Year 2026
+> 🏆 80 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -46,42 +46,42 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    2 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.75 % 
-Python                   1 hr 59 mins        ███████████░░░░░░░░░░░░░░   42.08 % 
-Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-TeX                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Python                   2 hrs 19 mins       ███████████████░░░░░░░░░░   59.47 % 
+Other                    52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+TeX                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 12 mins       ██████████████████████░░░   88.67 % 
-VS Code                  30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              3 hrs 2 mins        ███████████████████░░░░░░   77.81 % 
+VS Code                  50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      4 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 31 mins (95.18%)
+⏱ AI Coding Time: 3 hrs 21 mins (85.7%)
 
-✍️ 135 lines written by AI, 1 lines written by hand (99.26% AI-written)
+✍️ 135 lines written by AI, 8 lines written by hand (94.41% AI-written)
 
-🔤 2,185,111 Input Tokens, 175,437 Output Tokens
+🔤 1,236,531 Input Tokens, 109,654 Output Tokens
 
-💵 $28.56 Estimated AI Cost This Week
+💵 $17.07 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 87 AI Prompts
+🧠 6 AI Sessions, 65 AI Prompts
 
 Opus                     143 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.26% of written lines came from AI
-📝 Concise Prompter — average 265 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.69% of changed lines were hand-edited
+🤖 AI-Driven — 94.41% of written lines came from AI
+📝 Concise Prompter — average 340 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 5.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -101,5 +101,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jane1019-Libra/Jane1019-Libra/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 04:22:39 UTC
+ Last Updated on 08/09/2026 04:25:39 UTC
 <!--END_SECTION:waka-->
