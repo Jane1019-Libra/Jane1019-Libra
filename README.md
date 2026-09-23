@@ -46,36 +46,36 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    3 hrs 15 mins       ████████████████████████░   96.00 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Other                    22 mins             ██████████████████░░░░░░░   73.77 % 
+Python                   8 mins              ███████░░░░░░░░░░░░░░░░░░   26.23 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 25 mins       █████████████████████████   99.93 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude Code              32 mins             █████████████████████████   99.55 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 23 mins (100.0%)
+⏱ AI Coding Time: 31 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 5,161,002 Input Tokens, 96,147 Output Tokens
+🔤 2,399,830 Input Tokens, 20,910 Output Tokens
 
-💵 $68.41 Estimated AI Cost This Week
+💵 $38.56 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 107 AI Prompts
+🧠 4 AI Sessions, 22 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 191 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -96,5 +96,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jane1019-Libra/Jane1019-Libra/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 04:44:02 UTC
+ Last Updated on 23/09/2026 04:41:18 UTC
 <!--END_SECTION:waka-->
