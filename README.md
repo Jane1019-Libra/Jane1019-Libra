@@ -9,34 +9,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 495.7 kB Used in GitHub's Storage 
+> 📦 496.3 kB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2026
+> 🏆 100 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                208 commits         ███████████████░░░░░░░░░░   58.10 % 
-🌆 Daytime                51 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-🌃 Evening                81 commits          ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+🌞 Morning                221 commits         ███████████████░░░░░░░░░░   58.62 % 
+🌆 Daytime                57 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+🌃 Evening                81 commits          █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Wednesday                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Friday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Saturday                 197 commits         ██████████████░░░░░░░░░░░   55.03 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Monday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Tuesday                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Wednesday                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Friday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Saturday                 197 commits         █████████████░░░░░░░░░░░░   52.25 % 
+Sunday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 ```
 
 
@@ -46,47 +46,45 @@ Sunday                   19 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    37 mins             █████████████████████░░░░   82.17 % 
-Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Other                    22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              47 mins             █████████████████████████   99.55 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Claude Code              24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (100.0%)
+⏱ AI Coding Time: 22 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,170,746 Input Tokens, 38,695 Output Tokens
+🔤 1,488,271 Input Tokens, 22,940 Output Tokens
 
-💵 $44.58 Estimated AI Cost This Week
+💵 $36.43 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 25 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 77 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
-Java                     7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Jupyter Notebook         5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   11 repos            ██████████░░░░░░░░░░░░░░░   40.74 % 
+Java                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Jupyter Notebook         5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -96,5 +94,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jane1019-Libra/Jane1019-Libra/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 05:12:09 UTC
+ Last Updated on 28/09/2026 05:16:57 UTC
 <!--END_SECTION:waka-->
