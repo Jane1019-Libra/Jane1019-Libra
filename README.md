@@ -46,40 +46,39 @@ Sunday                   38 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 48 mins       █████████████████████░░░░   82.19 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-TeX                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Python                   2 hrs               ███████████████████░░░░░░   77.19 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+TeX                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 19 mins       ████████████████████████░   97.26 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Claude Code              2 hrs 31 mins       ████████████████████████░   96.41 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 💻 Operating System: 
-Mac                      3 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 36 mins (100.0%)
 
-✍️ 635 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 347 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,539,847 Input Tokens, 184,325 Output Tokens
+🔤 2,619,365 Input Tokens, 134,018 Output Tokens
 
-💵 $129.79 Estimated AI Cost This Week
+💵 $107.22 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 55 AI Prompts
+🧠 5 AI Sessions, 41 AI Prompts
 
-Fable                    354 lines           ██████████████░░░░░░░░░░░   55.49 % 
-Opus                     284 lines           ███████████░░░░░░░░░░░░░░   44.51 % 
+Fable                    350 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 77 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 63 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -100,5 +99,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jane1019-Libra/Jane1019-Libra/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 06:49:40 UTC
+ Last Updated on 14/10/2026 04:52:17 UTC
 <!--END_SECTION:waka-->
