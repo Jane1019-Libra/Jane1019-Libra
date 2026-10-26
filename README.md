@@ -11,13 +11,13 @@
 
 > 📦 496.5 kB Used in GitHub's Storage 
  > 
-> 🏆 156 Contributions in the Year 2026
+> 🏆 157 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -46,32 +46,32 @@ Sunday                   38 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   6 hrs 7 mins        █████████████████░░░░░░░░   66.61 % 
-Other                    1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-C++                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Python                   6 hrs 7 mins        █████████████████░░░░░░░░   66.83 % 
+Other                    1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+C++                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 3 mins        ██████████████████████░░░   87.48 % 
-VS Code                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Claude Code              8 hrs 1 min         ██████████████████████░░░   87.44 % 
+VS Code                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 
 💻 Operating System: 
-Mac                      9 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 29 mins (92.24%)
+⏱ AI Coding Time: 8 hrs 27 mins (92.22%)
 
 ✍️ 2,904 lines written by AI, 2 lines written by hand (99.93% AI-written)
 
-🔤 5,222,914 Input Tokens, 509,753 Output Tokens
+🔤 4,666,457 Input Tokens, 507,551 Output Tokens
 
-💵 $320.27 Estimated AI Cost This Week
+💵 $314.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 140 AI Prompts
+🧠 5 AI Sessions, 137 AI Prompts
 
 Fable                    2,473 lines         █████████████████████░░░░   84.58 % 
 Opus                     451 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
@@ -79,19 +79,19 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📝 Concise Prompter — average 410 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
+📝 Concise Prompter — average 417 characters per prompt
+🔁 Iterative Prompter — average 27 prompts per session
 🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-Java                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Jupyter Notebook         5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   13 repos            ████████████░░░░░░░░░░░░░   46.43 % 
+Java                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Jupyter Notebook         5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -101,5 +101,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jane1019-Libra/Jane1019-Libra/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 04:37:42 UTC
+ Last Updated on 26/10/2026 04:42:17 UTC
 <!--END_SECTION:waka-->
